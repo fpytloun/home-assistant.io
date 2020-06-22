@@ -73,12 +73,17 @@ The `daikin` sensor platform integrates Daikin air conditioning systems into Hom
 
 - Inside temperature
 - Outside temperature
+- Inside humidity
 - Total instant power consumption
 - Hourly energy consumption in cool mode
 - Hourly energy consumption in heat mode
 
 <div class='note'>
 Some models only report outside temperature when they are turned on.
+</div>
+
+<div class='note'>
+Some models does not have humidity sensor.
 </div>
 
 <div class='note'>
